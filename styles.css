@@ -17,7 +17,7 @@ body {
     padding: 24px;
     border-radius: 20px;
     gap: 20px;
-    min-width: 320px
+    min-width: 300px;
 }
 
 .profile {
