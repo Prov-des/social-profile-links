@@ -11,8 +11,9 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
+    justify-content: center;
     background-color: #484a4a30;
-    width: 80%;
+    width: 60%;
     padding: 24px;
     border-radius: 20px;
     gap: 20px;
@@ -53,15 +54,17 @@ body {
 .links-section {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     gap: 16px;
-    width: 100%;
+    width: 80%;
+    max-width: 350px;
+    min-width: 120px;
 }
 
 .links{
     display: flex;
     background-color: #484a4a;
     justify-content: center;
-    width: 100%;
     border-radius: 8px;
     padding: 8px;
 }
