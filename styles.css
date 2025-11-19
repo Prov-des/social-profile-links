@@ -12,7 +12,7 @@ body {
     align-items: center;
     flex-direction: column;
     background-color: #484a4a30;
-    width: 50%;
+    width: 80%;
     padding: 24px;
     border-radius: 20px;
     gap: 20px;
@@ -44,8 +44,9 @@ body {
     color: #00ff00;
 }
 
-.name h1, .name h3 {
+.name h1, .name h3, p {
     margin: 0;
+    text-align: center;
 }
 
 
